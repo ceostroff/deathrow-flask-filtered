@@ -10,7 +10,7 @@ About 20 inmates' are missing from this database as their names are listed as be
 
 In the coming days, I will also change the styles and try to make it look a bit nicer as well as start going through court records to add summaries for each erson about what exactly they did, instead of just that they're on death row for first degree murder.
 
-<h2>How do I run it></h2>
+<h2>How do I run it?</h2>
 
 You will need...
 <ul>
