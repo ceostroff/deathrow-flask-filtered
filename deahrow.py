@@ -22,10 +22,26 @@ def get_data():
                 newrows.append(row)
         return newrows
     
-def inmate_data():
-    rows = [d for d in get_data()]
-    return (rows)
-    
+def get_inmatedata(id):
+    with open('./static/data/deathrow.csv', 'r') as f:
+        rows = [d for d in get_data()]
+        for row in csv.DictReader(f):
+            if id == str( row["id"] ):
+            # decode handles accented characters
+                name = row["name"] 
+                race = row["race"]
+                photo = row["photo"] 
+                sex = row["sex"]
+                age = row["age"]
+                years_there = row["years_there"]
+                location_held = row["location_held"]
+                sentence = row["sentence"]
+                crime = row["crime"]
+                offense_date = row["offense_date"]
+                sentence_date = row["sentence_date"]
+                county = row["county"]
+                resentence= row["resentence"]
+        return id, name, race, photo, sex, age, years_there, location_held, sentence, crime, offense_date, sentence_date, county, resentence
     
     
 def filter_data(name='', sortby=None):
@@ -65,10 +81,10 @@ def results():
 
 @app.route("/inmate/<id>.html")
 def inmate(id):
-    peep = get_data()
-    html = render_template('inmate.html')
-    return html
+    id, name, race, photo, sex, age, years_there, location_held, sentence, crime, offense_date, sentence_date, county, resentence = get_inmatedata(id)
+    return render_template('inmate.html', pairs=name, name=name, race=race, photo=photo, sex=sex, age=age, years_there=years_there, location_held=location_held, sentence=sentence, crime=crime, offense_date=offense_date, sentence_date=sentence_date, county=county, resentence=resentence)
 
+# get the information for each ID
 
 
 if __name__ == '__main__':
