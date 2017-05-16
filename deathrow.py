@@ -47,14 +47,17 @@ def get_inmatedata(id):
 def filter_data(name='', sortby=None):
     # first, select only peeps that match by a name, then sort them
     rows = [d for d in get_data()]
-    if sortby == 'oldest':
+    if sortby == 'Oldest':
         return sorted(rows, key=itemgetter('age'), reverse=True)
-    elif sortby == 'youngest':
+    elif sortby == 'Youngest':
         return sorted(rows, key=itemgetter('age'))
+    elif sortby == 'Most Time on Death Row':
+        return sorted(rows, key=itemgetter('years_there'), reverse=True)
     else:
         # i.e. 'alpha' or any value...just sort by last name, first name
         return sorted(rows, key=itemgetter('name'))
 
+    
 def get_inmates():
     with open('./static/data/deathrow.csv', 'r') as f:
         names = []
@@ -66,6 +69,7 @@ def get_inmates():
         return names
 
 @app.route("/")
+@app.route("/index.html")
 def homepage():
     html = render_template('index.html')
     return html
@@ -82,7 +86,7 @@ def results():
 @app.route("/inmate/<id>.html")
 def inmate(id):
     id, name, race, photo, sex, age, years_there, location_held, sentence, crime, offense_date, sentence_date, county, resentence = get_inmatedata(id)
-    return render_template('inmate.html', pairs=name, name=name, race=race, photo=photo, sex=sex, age=age, years_there=years_there, location_held=location_held, sentence=sentence, crime=crime, offense_date=offense_date, sentence_date=sentence_date, county=county, resentence=resentence)
+    return render_template('inmate.html', name=name, race=race, photo=photo, sex=sex, age=age, years_there=years_there, location_held=location_held, sentence=sentence, crime=crime, offense_date=offense_date, sentence_date=sentence_date, county=county, resentence=resentence)
 
 # get the information for each ID
 

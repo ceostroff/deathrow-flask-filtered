@@ -3,19 +3,29 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>Search for a Congressmember</title>
-      <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
+  <title>Florida's Death Row</title>
   <link rel="stylesheet" href="{{url_for('static', filename='color.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
 
 </head>
 <body>
 
+<h2>By Caitlin Ostroff</h2>
+
+    
+<p>In January 2016, the U.S. Supreme Court struck down Florida's policy of imposing the death penalty, ruling the state gives too much power to the judges and not enough to juries in deciding, according to the <a href="https://www.washingtonpost.com/news/post-nation/wp/2016/12/22/florida-supreme-court-says-hundreds-of-death-row-inmates-may-get-new-sentences-and-avoid-execution/">Washington Post.</a> </p>
+
+    <p>Because of the overturning of Florida's policy, this has left many in limbo.</p>
+    
+    <p>Currently, 371 people sit on death row. Following the Court's opinion, the justices decided the Supreme Court ruling would only apply to cases after 2002, according to the <a href="http://www.tampabay.com/news/politics/stateroundup/florida-supreme-court-death-penalty-cases-finalized-before-2002-will-stand/2307180">Tampa Bay Times.</a></p>
 
 
-  <h3>Type in the last name (partial is OK) of a Congressmember</h3>
+  <h3>Explore Florida's death row - the third largest in the country</h3>
   {% include 'search.html' %}
 
-  <p>Data comes from <a href="https://sunlightlabs.github.io/congress/index.html#legislator-spreadsheet">Sunlight Foundation</a></p>
+  <p>Data comes from <a href="http://www.dc.state.fl.us/activeinmates/deathrowroster.asp">the Florida Department of Corrections</a></p>
+    
+    <h2>How did she do this? Check it out on <a href="https://github.com/ceostroff/deathrow-flask-filtered">GitHub</a>.</h2> 
 </body>
 
 </html>

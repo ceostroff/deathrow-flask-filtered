@@ -4,12 +4,13 @@
   <meta charset="UTF-8">
   <title>Search results</title>
   <link rel="stylesheet" href="{{url_for('static', filename='color.css')}}">
-    <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
+            <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
+
 </head>
     <body>
     <div id="container">
 
-
+<div><a href="{{ url_for('inmate', id=id) }}"><img id="myImg" src="{{ url_for('static', filename='mugshots/' + photo) }}" width="150" height="200"></a></div>
 
 <p>Name: {{ name }}</p>
 
@@ -21,7 +22,7 @@
 
 <p>Age: {{ age }}</p>
     
-<p>Time Spent on Death Row: {{ years_there }}</p>
+<p>Time Spent on Death Row: {{ years_there }} years</p>
     
 <p>Facility Held At: {{ location_held }}</p>
     
