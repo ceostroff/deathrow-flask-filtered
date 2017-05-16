@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 75%;
+    color: #000;
+    background: #CED1FF;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    margin: 6em auto;
+    width: 80%;
+    padding: 6em 3em;
+    background: #CED1FF;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Pavanam', sans-serif;
+    font-size: 2.5em;
+    margin: 0;
+}
+.inmatePic {
+    padding: 20px;
+}
+.inmateList{
+    display: inline-block;
+}
+.nametext, .inmatePic {
+    text-align: center;
+}
+p, li {
+    font-size: 1.1em;
+    margin: 1em;
+}
+
+/* links */
+
+a {
+    color: #5B6DFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #551A8B;
+    text-decoration: underline;
+}
+
+
+/* media queries */
+
+@media (max-width: 900px) {
+    body {
+        background: #00008B;
+    }
+    #container {
+        margin: 5em auto;
+        width: 100%;
+        padding: 3em;
+    }
+    h1 {
+        font-size: 2.2em;
+    }
+
+}

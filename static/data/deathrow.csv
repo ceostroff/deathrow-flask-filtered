@@ -1,0 +1,373 @@
+id,photo,name,race,sex,age,years_there,location_held,sentence,crime,offense_date,sentence_date,county,resentence
+8035,008035.jpg,"Phillips, Harry F",Black,Male,72,43,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/31/82,2/1/84,Miami-dade,no
+10243,010243.jpg,"Rodgers, Theodore  Jr",Black,Male,77,12,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/14/01,6/16/04,Orange,yes
+11225,011225.jpg,"Rose, James F",White,Male,71,45,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/22/76,5/13/77,Hillsborough,no
+19762,019762.jpg,"Brown, Paul A",White,Male,67,30,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/20/86,3/2/87,Hillsborough,no
+21641,021641.jpg,"Cherry, Roger L",Black,Male,66,29,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,6/27/86,9/26/87,Volusia,no
+25171,025171.jpg,"Miller, Lionel",White,Male,69,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/16/06,2/1/08,Orange,yes
+26985,026985.jpg,"Lott, Ken E",White,Male,64,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/27/94,6/23/95,Orange,no
+29315,029315.jpg,"Kilgore, Dean",Black,Male,66,46,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/13/89,4/27/94,Polk,no
+39763,039763.jpg,"Lawrence, Gary",White,Male,60,26,Union C.I.,Death Sentence,"1st deg mur,com.of felony",7/28/94,5/5/95,Santa rosa,no
+40002,040002.jpg,"Reaves, William",Black,Male,68,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/23/86,3/6/92,Indian river,no
+42115,042115.jpg,"Anderson, Richard H",White,Male,69,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/7/87,2/26/88,Hillsborough,no
+44049,044049.jpg,"Booker, Stephen T",Black,Male,63,38,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/9/77,10/20/78,Alachua,no
+46651,046651.jpg,"Haliburton, Jerry",Black,Male,62,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/9/81,4/11/88,Palm beach,no
+48606,048606.jpg,"Williamson, Dana",White,Male,58,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/4/88,7/15/94,Broward,no
+49546,049546.jpg,"Foster, Charles K",White,Male,70,41,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/15/75,10/4/75,Bay,no
+51769,051769.jpg,"Oats, Sonny B Jr",Black,Male,59,36,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/20/79,2/10/81,Marion,no
+53779,053779.jpg,"Thompson, William L",White,Male,65,39,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/30/76,9/20/78,Miami-dade,no
+53948,053948.jpg,"Zeigler, William T",White,Male,71,40,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/24/75,7/16/76,Duval,no
+56338,056338.jpg,"Sireci, Henry P Jr",White,Male,68,40,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/3/75,11/15/76,Orange,no
+58279,058279.jpg,"Lucas, Harold G",White,Male,65,40,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/14/76,2/9/77,Lee,no
+58293,058293.jpg,"Hitchcock, James E",White,Male,61,40,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/31/76,2/11/77,Orange,no
+59121,059121.jpg,"Huggins, John",White,Male,55,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/9/97,9/19/02,Orange,yes
+61360,061360.jpg,"Damren, Floyd W",White,Male,66,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/1/94,6/2/95,Clay,no
+62368,062368.jpg,"Jones, Harry",Black,Male,57,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/1/91,11/20/92,Leon,no
+63143,063143.jpg,"Downs, Ernest C",White,Male,68,39,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/23/77,1/27/78,Duval,no
+65135,065135.jpg,"Israel, Connie R",Black,Male,60,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/27/91,5/28/99,Putnam,no
+65145,065145.jpg,"Heath, Ronald P",White,Male,56,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/23/89,12/17/90,Alachua,no
+66600,066600.jpg,"Bradley, Donald L",White,Male,57,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/7/95,6/25/98,Clay,no
+67048,067048.jpg,"White, William M",White,Male,71,38,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/6/78,12/20/78,Orange,no
+68610,068610.jpg,"Dillbeck, Donald D",White,Male,53,37,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/24/90,3/15/91,Leon,no
+71551,071551.jpg,"Barnes, James P",White,Male,55,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/20/88,12/13/07,Brevard,yes
+71588,071588.jpg,"Lamarca, Anthony",White,Male,62,19,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/2/95,2/20/98,Pinellas,no
+71615,071615.jpg,"Scott, Paul W",White,Male,61,37,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/4/78,12/14/79,Palm beach,no
+72002,072002.jpg,"Kokal, Gregory A",White,Male,54,32,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/29/83,11/14/84,Duval,no
+72746,072746.jpg,"Freeman, John D",White,Male,53,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/11/86,11/2/88,Duval,no
+72847,072847.jpg,"Jackson, Etheria V",Black,Male,58,36,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/3/85,8/8/86,Duval,no
+73045,073045.jpg,"Jennings, Bryan F",White,Male,58,36,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/11/79,4/25/86,Brevard,no
+73053,073053.jpg,"Hardwick, John G Jr",White,Male,58,31,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/24/84,4/24/86,Duval,no
+73283,073283.jpg,"Rodriguez, Manolo",Hispanic,Male,61,30,Union C.I.,Death Sentence,"1st deg mur,com.of felony",12/4/84,10/24/96,Miami-dade,no
+75812,075812.jpg,"Quince, Kenneth D",Black,Male,58,36,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/28/79,10/21/80,Volusia,no
+78081,078081.jpg,"Lightbourn, Ian",Black,Male,57,36,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/16/81,5/1/81,Marion,no
+78387,078387.jpg,"Asay, Mark J",White,Male,53,28,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,7/18/87,11/18/88,Duval,no
+81163,081163.jpg,"Peterson, Charles",Black,Male,57,35,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/24/97,1/6/06,Pinellas,yes
+81792,081792.jpg,"Card, James A Sr",White,Male,70,35,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/3/81,1/28/82,Bay,no
+82284,082284.jpg,"Herring, Ted",Black,Male,55,35,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/29/81,3/1/82,Volusia,no
+83040,083040.jpg,"Pope, Thomas D",White,Male,68,35,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/16/81,4/7/82,Broward,no
+84582,084582.jpg,"Blanco, Omar",White,Male,66,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/14/82,5/24/82,Broward,no
+84643,084643.jpg,"Pace, Bruce D",Black,Male,57,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/4/88,11/16/89,Santa rosa,no
+85488,085488.jpg,"Byrd, Milford W",White,Male,67,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/12/81,8/13/82,Hillsborough,no
+86006,086006.jpg,"Doyle, Daniel L",White,Male,57,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/5/81,5/13/82,Broward,no
+86158,086158.jpg,"Bowles, Gary R",White,Male,55,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/16/94,9/6/96,Duval,no
+86160,086160.jpg,"Taylor, Perry A",Black,Male,51,27,Union C.I.,Death Sentence,"1st deg mur,com.of felony",10/24/88,5/12/89,Hillsborough,no
+87429,087429.jpg,"Cave, Alphonso",Black,Male,58,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/27/82,12/10/82,Pinellas,no
+88568,088568.jpg,"Bates, Kayle B",Black,Male,59,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/14/82,3/11/83,Bay,no
+90411,090411.jpg,"Rose, Milo A",White,Male,67,33,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/18/82,7/8/83,Pinellas,no
+92501,092501.jpg,"Barwick, Darryl",White,Male,50,30,Union C.I.,Death Sentence,"1st deg mur,com.of felony",3/31/86,8/11/92,Bay,no
+93094,093094.jpg,"Peede, Robert I",White,Male,72,33,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/31/83,3/5/84,Orange,no
+93268,093268.jpg,"Walton, Jason D",White,Male,58,33,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/18/82,3/14/84,Pinellas,no
+93417,093417.jpg,"Kelley, William",White,Male,74,33,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/3/66,4/2/84,Highlands,no
+94506,094506.jpg,"Muehleman, Jeffrey A",White,Male,52,32,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/5/83,6/8/84,Pinellas,no
+96344,096344.jpg,"Crain, Willie S Jr.",White,Male,71,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/10/98,11/19/99,Hillsborough,no
+96867,096867.jpg,"Pietri, Noberto",Hispanic,Male,54,27,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/22/88,3/15/90,Palm beach,no
+97494,097494.jpg,"Derrick, Samuel J",White,Male,50,28,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/24/87,7/25/88,Pasco,no
+99269,099269.jpg,"Rhodes, Richard W",White,Male,63,31,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/29/84,9/12/85,Pinellas,no
+99752,099752.jpg,"Mccoy, Richard L",Black,Male,51,27,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/13/00,8/9/01,Duval,no
+100063,100063.jpg,"Sweet, William E",Black,Male,49,25,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,6/27/90,8/30/91,Duval,no
+101660,101660.jpg,"Owen, Duane E",White,Male,56,31,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/24/84,3/13/86,Palm beach,no
+102992,102992.jpg,"Harvey, Harold L Jr.",White,Male,54,30,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/23/85,6/20/86,Indian river,no
+105559,105559.jpg,"Gill, Ricardo I",White,Male,48,15,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,7/24/01,6/30/06,Union,yes
+105661,105661.jpg,"Reed, Grover B",White,Male,55,30,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/27/86,1/9/87,Duval,no
+105669,105669.jpg,"Seibert, Michael D",White,Male,49,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/17/98,3/24/03,Miami-dade,yes
+106014,106014.jpg,"Davis, Mark A",White,Male,53,30,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/1/85,1/30/87,Pinellas,no
+106576,106576.jpg,"Hayward, Steven D",Black,Male,49,9,Union C.I.,Death Sentence,"1st deg mur,com.of felony",2/1/05,6/1/07,St. lucie,yes
+108426,108426.jpg,"Bell, Michael B",Black,Male,46,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/9/93,6/2/95,Duval,no
+108509,108509.jpg,"Dailey, James",White,Male,71,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/5/85,8/7/87,Pinellas,no
+110365,110365.jpg,"Bogle, Brett A",White,Male,48,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/13/91,2/15/93,Hillsborough,no
+111508,111508.jpg,"Jones, Randall",White,Male,49,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/27/87,5/3/88,Putnam,no
+111640,111640.jpg,"Taylor, William K",White,Male,59,12,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/25/01,9/29/04,Hillsborough,yes
+111918,111918.jpg,"Burns, Daniel  Jr.",Black,Male,72,28,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/18/87,6/2/88,Manatee,no
+112232,112232.jpg,"Duckett, James A",White,Male,59,28,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,5/12/87,6/30/88,Lake,no
+112850,112850.jpg,"Walls, Frank A",White,Male,49,28,Union C.I.,Death Sentence,"1st deg mur,com.of felony",7/22/87,7/29/92,Okaloosa,no
+112967,112967.jpg,"Ponticelli, Anthony J",White,Male,50,28,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/27/87,9/6/88,Marion,no
+113388,113388.jpg,"Morrison, Raymond  Jr.",Black,Male,49,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/8/97,12/18/98,Duval,no
+113416,113416.jpg,"Evans, Wydell J",Black,Male,47,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/21/98,2/15/00,Brevard,no
+115574,115574.jpg,"England, Richard",Hispanic,Male,46,12,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/25/01,7/23/04,Volusia,yes
+115624,115624.jpg,"Hunter, James E",Black,Male,46,23,Union C.I.,Death Sentence,"1st deg mur,com.of felony",9/17/92,8/18/93,Volusia,no
+115769,115769.jpg,"Randolph, Richard B",Black,Male,55,28,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/15/88,4/5/89,Putnam,no
+116320,116320.jpg,"Shere, Richard E Jr.",White,Male,51,27,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/25/87,4/17/89,Hernando,no
+116335,116335.jpg,"Moore, Thomas J",Black,Male,44,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/21/93,12/2/93,Duval,no
+117157,117157.jpg,"Hodges, George M",White,Male,59,27,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/8/87,8/10/89,Hillsborough,no
+118167,118167.jpg,"Merck, Troy  Jr.",White,Male,45,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/11/91,12/10/93,Pinellas,no
+119682,119682.jpg,"Valentine, Terance",Black,Male,68,27,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/9/88,9/30/94,Hillsborough,no
+119773,119773.jpg,"Peterka, Daniel J",White,Male,49,27,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/12/89,4/25/90,Okaloosa,no
+120190,120190.jpg,"Cumming-El, F W",Black,Male,59,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",9/16/91,2/19/93,Miami-dade,no
+120467,120467.jpg,"Atwater, Jeffrey",White,Male,53,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/11/89,6/25/90,Pinellas,no
+120774,120774.jpg,"Newberry, Rodney R",Black,Male,48,5,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,12/28/09,4/4/14,Duval,yes
+121605,121605.jpg,"Troy, John",White,Male,48,13,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/11/01,1/23/04,Sarasota,yes
+121965,121965.jpg,"Trepal, George J",White,Male,68,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/15/88,3/6/91,Polk,no
+122079,122079.jpg,"Arbelaez, Guillermo O",Hispanic,Male,59,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/14/88,3/14/91,Miami-dade,no
+122551,122551.jpg,"Stein, Steven E",White,Male,49,25,Union C.I.,Death Sentence,"1st deg mur,com.of felony",1/20/91,7/23/91,Duval,no
+122651,122651.jpg,"Holland, Albert",Black,Male,59,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/29/90,2/7/97,Broward,no
+122995,122995.jpg,"Marquard, John C",White,Male,50,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/20/91,2/5/93,St. johns,no
+123069,123069.jpg,"Reese, John L",Black,Male,52,23,Union C.I.,Death Sentence,"1st deg mur,com.of felony",1/28/92,6/25/93,Duval,no
+123096,123096.jpg,"Gamble, Guy R",White,Male,46,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/10/91,8/10/93,Lake,no
+123101,123101.jpg,"Rodgers, Jeremiah M",White,Male,40,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/7/98,11/21/00,Santa rosa,no
+123763,123763.jpg,"Gonzalez, Ricardo",Hispanic,Male,46,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/6/91,11/24/93,Miami-dade,no
+123846,123846.jpg,"Hamilton, Richard E",White,Male,54,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/27/94,6/12/95,Hamilton,no
+123847,123847.jpg,"Wainwright, Anthony F",White,Male,46,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/27/94,6/12/95,Hamilton,no
+123911,180399.jpg,"Gordon, Robert R",Black,Male,54,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/25/94,11/16/95,Pinellas,no
+124052,124052.jpg,"Raleigh, Bobby A",White,Male,43,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/5/94,2/16/96,Volusia,no
+124283,124283.jpg,"Pooler, Leroy",Black,Male,69,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/30/95,2/23/96,Palm beach,no
+124346,124346.jpg,"Trease, Robert J",White,Male,64,20,Florida State Prison,Death Sentence,"1st deg mur,com.of felony",8/17/95,1/22/97,Sarasota,no
+124400,124400.jpg,"Rogers, Glen E",White,Male,55,19,Union C.I.,Death Sentence,"1st deg mur,com.of felony",11/5/95,7/11/97,Hillsborough,no
+124439,124439.jpg,"Zack, Michael D Iii",White,Male,48,19,Union C.I.,Death Sentence,"1st deg mur,com.of felony",6/13/96,11/24/97,Escambia,no
+124460,124460.jpg,"Mansfield, Scott",White,Male,56,19,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/15/95,1/30/98,Osceola,no
+124493,124493.jpg,"Stephens, Jason D",Black,Male,43,19,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/2/97,4/7/98,Duval,no
+124538,124538.jpg,"Brooks, Lamar Z",Black,Male,45,18,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,4/24/96,2/25/02,Okaloosa,yes
+124607,124607.jpg,"Dennis, Labrant D",Black,Male,45,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/13/96,2/26/99,Miami-dade,no
+124639,124639.jpg,"Smithers, Samuel L",White,Male,64,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/12/96,6/25/99,Hillsborough,no
+124669,124669.jpg,"Hurst, Timothy L",Black,Male,38,16,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,5/2/98,4/26/00,Escambia,no
+124849,124849.jpg,"Hutchinson, Jeffrey G",White,Male,55,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/11/98,2/6/01,Okaloosa,no
+125172,125172.jpg,"Douglas, Luther",Black,Male,43,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/25/99,6/14/02,Duval,yes
+127513,127513.jpg,"Carter, Pinkney W",White,Male,63,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/24/02,12/22/05,Duval,yes
+128019,128019.jpg,"Salazar, Neil K",Black,Male,50,10,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/26/00,5/30/06,Okeechobee,yes
+128135,128135.jpg,"Bailey, Robert J",White,Male,35,10,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,3/27/05,4/11/07,Bay,yes
+129232,129232.jpg,"Serrano, Nelson I",White,Male,79,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/3/97,6/26/07,Polk,yes
+130335,130335.jpg,"Abdool, Dane",White,Male,31,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/25/06,5/12/08,Orange,yes
+130930,130930.jpg,"Allred, Andrew R",White,Male,31,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/24/07,11/19/08,Seminole,yes
+130985,130985.jpg,"Smith, Terry",Black,Male,29,5,Union C.I.,Death Sentence,"1st deg mur,com.of felony",6/5/07,5/12/11,Duval,yes
+131596,131596.jpg,"Altersberger, Joshua L",Black,Male,30,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/12/07,6/15/09,Highlands,yes
+132254,132254.jpg,"King, Michael L",White,Male,46,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/8/05,12/10/09,Duval,yes
+132474,132474.jpg,"Hampton, John L",Black,Male,43,7,Union C.I.,Death Sentence,"1st deg mur,com.of felony",6/10/07,2/19/10,Pinellas,yes
+133220,133220.jpg,"Mcmillian, Justin",Black,Male,33,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/11/09,10/1/10,Duval,yes
+133428,133428.jpg,"Dubose, Rasheem",Black,Male,33,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/26/06,12/9/10,Duval,yes
+133897,133897.jpg,"Hilton, Gary M",White,Male,71,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/1/07,4/21/11,Leon,yes
+135556,135556.jpg,"Lebron, Joel G",Black,Male,39,4,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,4/26/02,1/31/13,Miami-dade,yes
+135769,135769.jpg,"Smith, Delmer  Iii",White,Male,46,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,8/3/09,5/28/13,Manatee,yes
+135963,135963.jpg,"Jackson, Kim",Black,Male,48,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,10/1/04,10/1/13,Duval,yes
+135997,135997.jpg,"Cozzie, Steven A",White,Male,33,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,9/10/12,11/17/15,Orange,yes
+138315,138315.jpg,"Kearse, Billy L",Black,Male,44,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/18/91,11/8/91,St. lucie,no
+145267,145267.jpg,"Davis, Adam W",White,Male,38,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/27/98,12/17/99,Hillsborough,no
+155917,155917.jpg,"Brown, Tina L",Black,Female,47,4,Lowell Annex,Death Sentence,1st dg mur/premed. or att.,3/24/10,9/28/12,Escambia,yes
+165328,165328.jpg,"Kirkman, Vahteice A",Black,Male,39,8,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,3/17/06,4/29/16,Brevard,yes
+166224,166224.jpg,"Eaglin, Dwight T",White,Male,41,16,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,6/11/03,3/31/06,Charlotte,yes
+180399,123911.jpg,"Mcdonald, Meryl S",Black,Male,71,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/25/94,11/16/95,Pinellas,no
+180632,180632.jpg,"Jordan, Joseph E",White,Male,48,3,Florida State Prison,Death Sentence,"1st deg mur,com.of felony",6/24/09,9/23/13,Volusia,yes
+182543,182543.jpg,"Griffin, Michael A",White,Male,51,26,Union C.I.,Death Sentence,"1st deg mur,com.of felony",4/27/90,3/7/91,Miami-dade,no
+185563,185563.jpg,"Partin, Phillup A",White,Male,52,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/31/02,12/1/08,Pasco,yes
+188854,188854.jpg,"Cox, Allen W",White,Male,54,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/21/98,7/24/00,Lake,no
+189262,189262.jpg,"Smith, Stephen",White,Male,56,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/11/03,8/18/06,Charlotte,yes
+192202,192202.jpg,"Smith, Corey",Black,Male,45,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/24/97,3/17/05,Miami-dade,yes
+197598,197598.jpg,"Patrick, Eric K",White,Male,54,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/25/05,10/9/09,Broward,yes
+200047,200047.jpg,"Bright, Raymond",Black,Male,64,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/18/08,11/19/09,Duval,yes
+214353,214353.jpg,"Hall, Enoch D",Black,Male,48,23,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,6/25/08,1/15/10,Volusia,yes
+216728,216728.jpg,"Archer, Robin L",White,Male,52,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/26/91,9/20/91,Escambia,no
+217358,217358.jpg,"Melton, Antonio L",Black,Male,44,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",1/23/91,5/19/92,Escambia,no
+218693,218693.jpg,"Anderson, Fred  Jr.",Black,Male,49,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/20/99,1/11/01,Lake,no
+220267,220267.jpg,"Suggs, Ernest D",White,Male,62,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",8/6/90,7/15/92,Walton,no
+226426,226426.jpg,"Occhicone, Dominick",White,Male,71,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/10/86,11/9/87,Pasco,no
+233984,233984.jpg,"Butler, Harry L",Black,Male,56,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/13/97,1/11/99,Pinellas,no
+256512,256512.jpg,"Deparvine, William J",White,Male,65,26,Union C.I.,Death Sentence,"1st deg mur,com.of felony",12/25/03,1/9/06,Hillsborough,yes
+268130,268130.jpg,"Franklin, Quawn M",Black,Male,40,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/29/01,6/3/04,Lake,yes
+282008,282008.jpg,"Grim, Norman M",White,Male,57,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/27/98,12/21/00,Santa rosa,no
+286020,286020.jpg,"Watts, Tony R",Black,Male,50,27,Lake C.I.,Death Sentence,1st dg mur/premed. or att.,2/17/88,9/15/89,Duval,no
+286173,286173.jpg,"Belcher, James",Black,Male,58,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/8/96,5/17/01,Duval,no
+287224,287224.jpg,"Peterson, Robert E",White,Male,54,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/17/08,12/4/09,Sarasota,yes
+288322,288322.jpg,"Mungin, Anthony",Black,Male,51,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/16/90,2/23/93,Duval,no
+288500,288500.jpg,"Taylor, Steven R",White,Male,47,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/15/90,12/9/91,Duval,no
+291140,291140.jpg,"Murray, Gerald D",White,Male,48,13,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/15/90,6/26/03,Duval,yes
+300807,300807.jpg,"Davis, Toney D",Black,Male,47,21,Union C.I.,Death Sentence,"1st deg mur,com.of felony",12/9/92,7/18/95,Duval,no
+301898,301898.jpg,"Simpson, Jason A",White,Male,44,10,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/15/99,3/29/07,Duval,yes
+302491,302491.jpg,"Shellito, Michael",Hispanic,Male,41,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/31/94,10/20/95,Duval,no
+309066,309066.jpg,"Morton, Alvin",White,Male,45,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/26/92,3/18/94,Pasco,no
+309567,309567.jpg,"Jones, Marvin B",Black,Male,52,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/3/93,5/31/94,Duval,no
+310094,310094.jpg,"Foster, Jermaine A",Black,Male,43,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/29/92,7/25/94,Orange,no
+311509,311509.jpg,"Thomas, William G",White,Male,57,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/12/91,7/22/94,Duval,no
+313067,313067.jpg,"Branch, Eric S",White,Male,46,22,Union C.I.,Death Sentence,"1st deg mur,com.of felony",1/11/93,5/3/94,Escambia,no
+314648,314648.jpg,"Philmore, Lenard J",Black,Male,41,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/14/97,7/21/00,Martin,no
+318987,318987.jpg,"Hartley, Kenneth",Black,Male,50,23,Union C.I.,Death Sentence,"1st deg mur,com.of felony",4/22/91,12/9/93,Duval,no
+321031,321031.jpg,"Spencer, Dusty R",White,Male,65,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/18/92,12/21/92,Orange,no
+322534,322534.jpg,"Robertson, James",White,Male,53,36,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,12/10/08,12/18/12,Charlotte,yes
+324170,324170.jpg,"Reynolds, Michael G",White,Male,62,13,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/21/98,9/19/03,Seminole,yes
+324342,324342.jpg,"Guardado, Jesse",White,Male,55,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/13/04,10/13/05,Walton,yes
+330290,330290.jpg,"Evans, Steven M",Black,Male,50,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/25/96,6/7/99,Orange,no
+335421,335421.jpg,"Cole, Loran K",White,Male,50,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/18/94,12/20/95,Marion,no
+338043,338043.jpg,"Johnson, Emanuel",Black,Male,53,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/22/88,6/28/91,Sarasota,no
+347463,347463.jpg,"Spann, Anthony A",Black,Male,43,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/14/97,6/23/00,Martin,no
+349878,349878.jpg,"Zommer, Todd",White,Male,46,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/9/05,2/22/08,Osceola,yes
+351997,351997.jpg,"Pittman, David J",White,Male,55,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/15/90,4/25/91,Polk,no
+356054,356054.jpg,"Beasley, Curtis W",White,Male,68,18,Union C.I.,Death Sentence,"1st deg mur,com.of felony",8/24/95,5/22/98,Polk,no
+358986,358986.jpg,"Russ, David B",White,Male,55,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/7/07,5/13/09,Seminole,yes
+368527,368527.jpg,"Windom, Curtis",Black,Male,51,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/7/92,11/10/92,Orange,no
+375690,375690.jpg,"Doty, Wayne C",White,Male,44,20,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,5/17/11,6/5/13,Bradford,yes
+379799,379799.jpg,"Gudinas, Thomas L",White,Male,43,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/24/94,6/16/95,Collier,no
+391485,391485.jpg,"Lukehart, Andrew R",White,Male,44,20,Union C.I.,Death Sentence,"1st deg mur,com.of felony",2/25/96,4/4/97,Duval,no
+394141,394141.jpg,"Rodriguez, Juan D",Hispanic,Male,61,26,Union C.I.,Death Sentence,"1st deg mur,com.of felony",5/13/88,3/28/90,Miami-dade,no
+395352,395352.jpg,"Guzman, James",White,Male,53,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/10/91,8/30/16,Volusia,yes
+406356,406356.jpg,"Braddy, Harrel F",Black,Male,68,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/6/98,10/15/07,Miami-dade,yes
+406677,406677.jpg,"Jimenez, Jose A",White,Male,54,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/2/92,12/14/94,Miami-dade,no
+420481,420481.jpg,"Jones, Victor T",Black,Male,56,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/19/90,3/1/93,Miami-dade,no
+436687,436687.jpg,"Martin, Arthur",Black,Male,48,4,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/28/09,8/3/12,Duval,yes
+440701,440701.jpg,"Johnson, Ronnie",Black,Male,50,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/11/89,12/13/91,Miami-dade,no
+442564,442564.jpg,"Snelgrove, David B",White,Male,44,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/23/00,6/13/02,Flagler,yes
+444904,444904.jpg,"Wilcox, Darious",Black,Male,52,5,Union C.I.,Death Sentence,"1st deg mur,com.of felony",2/8/05,5/19/11,Brevard,yes
+445903,445903.jpg,"Franqui, Leonardo",White,Male,50,22,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,12/6/91,11/24/93,Miami-dade,no
+445904,445904.jpg,"San Martin, Pablo",White,Male,47,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/3/92,10/11/94,Miami-dade,no
+447891,447891.jpg,"Anderson, Charles L",Black,Male,63,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/16/94,4/19/99,Broward,no
+450307,450307.jpg,"Mendoza, Marbel",White,Male,51,21,Union C.I.,Death Sentence,"1st deg mur,com.of felony",3/17/92,8/2/94,Miami-dade,no
+472846,472846.jpg,"Lebron, Jermaine",Black,Male,43,18,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,11/24/95,7/10/98,Osceola,no
+479701,479701.jpg,"Kocaker, Genghis N",White,Male,54,7,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,8/31/04,12/18/09,Pinellas,yes
+479774,479774.jpg,"Stewart, Kenneth A",White,Male,53,30,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/6/84,10/3/86,Hillsborough,no
+482053,482053.jpg,"Lambrix, Michael R",White,Male,57,33,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,2/6/83,3/22/84,Glades,no
+490606,490606.jpg,"Smith, Derrick T",Black,Male,54,33,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/21/83,7/13/90,Pinellas,no
+490989,490989.jpg,"Fennie, Alfred L",Black,Male,63,24,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,1/16/91,11/10/92,Hillsborough,no
+494041,494041.jpg,"Long, Robert J",White,Male,63,31,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/27/84,7/25/86,Hillsborough,no
+500914,500914.jpg,"Hannon, Patrick C",White,Male,52,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/10/91,8/5/91,Hillsborough,no
+516349,516349.jpg,"Finney, Charles W",Black,Male,55,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",9/8/91,12/1/92,Hernando,no
+535168,535168.jpg,"Nelson, Micah L",Black,Male,41,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/16/97,3/17/00,Polk,no
+550026,550026.jpg,"Morris, Robert D",Black,Male,54,17,Union C.I.,Death Sentence,"1st deg mur,com.of felony",9/1/94,4/30/99,Polk,no
+554000,554000.jpg,"Zakrzewski, Edward J Ii",White,Male,52,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/10/94,4/19/96,Okaloosa,no
+567668,567668.jpg,"Hertz, Guerry W",White,Male,40,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/27/97,2/18/00,Wakulla,no
+572349,572349.jpg,"Evans, Paul H",White,Male,45,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/23/91,6/16/99,Indian river,no
+573461,573461.jpg,"Trotter, Melvin",Black,Male,56,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/16/86,5/18/87,Manatee,no
+588873,588873.jpg,"Brant, Charles G",White,Male,52,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/1/04,11/30/07,Hillsborough,yes
+610979,610979.jpg,"Knight, Ronald",White,Male,49,21,Union C.I.,Death Sentence,"1st deg mur,com.of felony",7/8/93,5/29/98,Palm beach,no
+616550,616550.jpg,"Fotopoulos, Konstantin O",White,Male,57,26,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,10/20/89,11/1/90,Volusia,no
+639131,639131.jpg,"Sochor, Dennis",White,Male,65,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/1/82,11/2/87,Broward,no
+640779,640779.jpg,"Rivera, Michael T",White,Male,54,29,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/30/86,5/1/87,Broward,no
+645118,645118.jpg,"Williams, Ronnie K",Black,Male,55,13,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/26/93,4/16/04,Broward,yes
+648254,648254.jpg,"Marshall, Matthew",Black,Male,52,30,Union C.I.,Death Sentence,"1st deg mur,com.of felony",11/1/88,12/12/89,Martin,no
+648711,648711.jpg,"Mckenzie, Norman B",White,Male,52,32,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/4/06,10/19/07,St. johns,yes
+649748,649748.jpg,"Rimmer, Robert",Black,Male,49,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/2/98,3/19/99,Broward,no
+664697,664697.jpg,"Ault, Howard S",White,Male,51,17,Union C.I.,Death Sentence,"1st deg mur,com.of felony",11/4/96,3/13/00,Broward,no
+668630,668630.jpg,"Pagan, Alex",White,Male,48,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/23/93,10/15/98,Broward,no
+684135,684135.jpg,"Farina, Anthony J",White,Male,43,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/9/92,12/16/92,Volusia,no
+693504,693504.jpg,"Armstrong, Lancelot U",Black,Male,54,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/17/90,6/20/91,Broward,no
+699349,699349.jpg,"Lowe, Rodney T",Black,Male,47,25,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/3/90,5/1/91,Indian river,no
+699575,699575.jpg,"Allen, Margaret A",Black,Female,40,5,Lowell Annex,Death Sentence,"1st deg mur,com.of felony",2/3/08,5/16/11,Broward,yes
+699893,699893.jpg,"Boyd, Lucious",Black,Male,58,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/5/98,6/21/02,Broward,yes
+707742,707742.jpg,"Willacy, Chadwick",Black,Male,49,25,Florida State Prison,Death Sentence,"1st deg mur,com.of felony",9/5/90,12/10/91,Brevard,no
+709795,709795.jpg,"Alston, Pressley B",Black,Male,45,21,Union C.I.,Death Sentence,"1st deg mur,com.of felony",1/22/95,1/12/96,Duval,no
+713735,713735.jpg,"Robinson, Michael L",White,Male,51,24,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/24/94,4/12/95,Orange,no
+716927,716927.jpg,"Puiatti, Carl",White,Male,54,32,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/16/83,5/4/84,Pasco,no
+721097,721097.jpg,"Jennings, Brandy B",White,Male,48,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/15/95,12/2/96,Collier,no
+721842,721842.jpg,"Krawczuk, Anton",White,Male,58,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",9/13/90,2/13/92,Lee,no
+726848,726848.jpg,"Orme, Roderick M",White,Male,55,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",3/3/92,3/25/93,Bay,no
+729185,729185.jpg,"Geralds, Mark",White,Male,50,26,Union C.I.,Death Sentence,"1st deg mur,com.of felony",2/1/89,3/26/90,Bay,no
+749768,749768.jpg,"Wright, Joel D",White,Male,59,33,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/6/83,9/23/83,Putnam,no
+751166,751166.jpg,"Gaskin, Louis B",Black,Male,50,26,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/20/89,6/19/90,Flagler,no
+752320,752320.jpg,"Hobart, Robert L",White,Male,48,4,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,9/22/10,11/30/12,Santa rosa,yes
+763722,763722.jpg,"Ford, James D",White,Male,57,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/6/97,6/3/99,Charlotte,no
+764970,764970.jpg,"Whitfield, Ernest",Black,Male,50,21,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/19/95,10/20/95,Sarasota,no
+768915,768915.jpg,"Gonzalez, Leonard P Jr",White,Male,44,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/9/09,2/17/11,Escambia,yes
+789049,789049.jpg,"Parker, J. B",Black,Male,54,34,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/27/82,1/11/83,Lake,no
+801152,801152.jpg,"Middleton, Dale",White,Male,44,4,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/28/09,10/19/12,Okeechobee,yes
+812974,812974.jpg,"Clark, Ronald",White,Male,49,26,Florida State Prison,Death Sentence,"1st deg mur,com.of felony",1/12/90,2/22/91,Duval,no
+898405,898405,"Victorino, Troy",Hispanic,Male,41,10,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/5/04,9/21/06,Volusia,yes
+898522,898522.jpg,"Lawrence, Jonathan H",White,Male,42,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/7/98,8/15/00,Santa rosa,no
+899500,899500.jpg,"Smith, Joseph P",White,Male,51,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/1/04,3/15/06,Sarasota,yes
+905288,905288.jpg,"Sliney, Jack R",White,Male,44,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/18/92,2/14/94,Charlotte,no
+910610,910610.jpg,"Nixon, Joe E",Black,Male,55,32,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/12/84,7/30/85,Leon,no
+911193,911193.jpg,"Overton, Thomas M",White,Male,62,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/22/91,3/18/99,Monroe,no
+927442,927442.jpg,"Johnston, Ray L",White,Male,63,15,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/6/97,8/22/01,Hillsborough,no
+936283,936283.jpg,"Whitton, Gary R",White,Male,58,24,Union C.I.,Death Sentence,"1st deg mur,com.of felony",10/10/90,9/10/92,Walton,no
+941687,941687.jpg,"Consalvo, Robert A",White,Male,55,23,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/27/91,11/17/93,Broward,no
+953712,953712.jpg,"Pham, Tai A",White,Male,45,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/22/05,11/14/08,Seminole,yes
+962032,962032.jpg,"Hoskins, Johnny",Black,Male,53,22,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/17/92,11/4/94,Brevard,no
+969121,969121.jpg,"James, Edward T",White,Male,56,21,Union C.I.,Death Sentence,"1st deg mur,com.of felony",9/19/93,8/18/95,Seminole,no
+973885,973885.jpg,"Jackson, Ray",Black,Male,42,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/1/04,6/21/07,Volusia,yes
+977097,977097.jpg,"Oliver, Terence T",Black,Male,42,4,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/22/09,6/15/12,Brevard,yes
+989102,989102.jpg,"Nelson, Joshua D",White,Male,40,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/10/95,11/27/96,Lee,no
+991988,991988.jpg,"Wheeler, Jason L",White,Male,42,10,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/9/05,10/23/06,Lake,yes
+996584,996584.jpg,"Mclean, Derrick",Black,Male,40,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/24/04,11/30/07,Orange,yes
+D30662,D30662.jpg,"Brown, Thomas T",Black,Male,48,5,Union C.I.,Death Sentence,"1st deg mur,com.of felony",6/18/09,10/28/11,Duval,yes
+D35843,D35843.jpg,"Campbell, John W",White,Male,44,5,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,8/10/10,3/19/13,Citrus,yes
+D40377,D40377.jpg,"Mccoy, Thomas F",White,Male,51,6,Union C.I.,Death Sentence,"1st deg mur,com.of felony",4/10/09,3/26/12,Walton,yes
+E08942,E08942.jpg,"Lynch, Richard E",White,Male,64,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/5/99,4/3/01,Seminole,no
+E11617,E11617.jpg,"Buzia, John M",White,Male,57,13,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/14/00,3/11/04,Seminole,yes
+E20773,E20773.jpg,"Schoenwetter, Randy L",White,Male,36,13,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/12/00,12/5/03,Brevard,yes
+H06832,H06832.jpg,"Woodel, Thomas D",White,Male,47,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/31/96,1/26/99,Polk,no
+H10118,H10118.jpg,"Wright, Tavares J",Black,Male,36,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/21/00,10/12/05,Polk,yes
+H12548,H12548.jpg,"Poole, Mark A",Black,Male,55,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/12/01,8/25/05,Polk,yes
+H17413,H17413.jpg,"Davis, William R Iii",White,Male,39,4,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,10/29/09,12/17/12,Seminole,yes
+H23012,H23012.jpg,"Rigterink, Thomas W",White,Male,46,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/24/03,10/14/05,Polk,yes
+H27248,H27248.jpg,"Davis, Leon  Jr",Black,Male,40,5,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/7/07,12/30/12,Polk,yes
+J01369,J01369.jpg,"Mccray, Gary B",Black,Male,38,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/23/04,12/10/08,Clay,yes
+J03479,J03479.jpg,"Phillips, Galante R",Black,Male,38,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/18/05,9/19/08,Duval,yes
+J08118,J08118.jpg,"Miller, David  Jr.",Black,Male,58,18,Union C.I.,Death Sentence,"1st deg mur,com.of felony",3/6/97,7/24/98,Duval,no
+J12116,J12116.jpg,"Taylor, John C Ii",White,Male,57,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/29/97,10/7/99,Clay,no
+J18546,J18546.jpg,"Sheppard, Billy J Jr",Black,Male,31,5,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,7/8/10,3/30/12,Duval,yes
+J19087,J19087.jpg,"Durousseau, Paul",Black,Male,47,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/26/99,12/13/07,Duval,yes
+J20499,J20499.jpg,"Kaczmar, Leo L Iii",White,Male,34,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/12/08,11/5/10,Clay,yes
+J25731,J25731.jpg,"King, Cecil S",Black,Male,36,5,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/28/09,10/27/11,Duval,yes
+J29603,J29603.jpg,"Banks, Donald L",Black,Male,45,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/9/05,8/15/08,Duval,yes
+J29642,J29642.jpg,"Bevel, Thomas E",Black,Male,36,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/29/04,10/21/05,Duval,yes
+J30192,J30192.jpg,"Mosley, John F",Black,Male,53,10,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,4/22/04,6/30/06,Duval,yes
+J30258,J30258.jpg,"Martin, David J",White,Male,31,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/11/08,3/3/10,Clay,yes
+J34141,J34141.jpg,"Jackson, Michael",White,Male,35,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/8/05,8/29/07,Duval,yes
+J35212,J35212.jpg,"Cole, Tiffany",White,Female,36,9,Lowell Annex,Death Sentence,1st dg mur/premed. or att.,7/8/05,3/6/08,Duval,yes
+J35401,J35401.jpg,"Wade, Alan",White,Male,30,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/8/05,3/4/08,Duval,yes
+J40507,J40507.jpg,"Sanchez-Torrez, Hector G",Hispanic,Male,28,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/9/08,9/1/11,Clay,yes
+J44119,J44119.jpg,"Jean-Philippe, Lesly",Black,Male,31,5,Union C.I.,Death Sentence,"1st deg mur,com.of felony",8/26/09,6/2/11,Duval,yes
+J46231,J46231.jpg,"Sparre, David K",White,Male,26,5,Florida State Prison,Death Sentence,"1st deg mur,com.of felony",7/20/08,3/30/12,Duval,yes
+K04389,K04389.jpg,"Tanzi, Michael A",White,Male,40,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/25/00,4/11/03,Monroe,yes
+K51342,K51342.jpg,"Johnson, Richard A",White,Male,40,12,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/15/01,8/9/04,St. lucie,yes
+K54395,K54395.jpg,"Gosciminski, Andrew M",White,Male,64,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/24/02,11/6/09,St. lucie,yes
+L36345,L36346.jpg,"Knight, Richard",Black,Male,39,10,Union C.I.,Death Sentence,1st dg mur/premed. or att.,6/28/00,3/28/07,Broward,yes
+L49959,L49959.jpg,"Hojan, Gerhard",White,Male,42,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/11/02,8/2/05,Broward,yes
+L88290,L88290.jpg,"Herard, James",Black,Male,28,5,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,11/14/08,1/23/15,Broward,yes
+M03128,M03128.jpg,"Calloway, Tavares D",Black,Male,39,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/21/97,10/1/10,Miami-dade,yes
+M16320,M16320.jpg,"Doorbal, Noel",White,Male,45,18,Union C.I.,Death Sentence,"1st deg mur,com.of felony",5/24/95,7/17/98,Miami-dade,no
+M16321,M16321.jpg,"Lugo, Daniel",White,Male,54,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,5/24/95,7/17/98,Miami-dade,no
+M25274,M25274.jpg,"Conde, Rory E",White,Male,52,15,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/10/95,3/7/00,Miami-dade,no
+N00676,N00676.jpg,"Looney, Jason B",White,Male,40,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/27/97,2/18/00,Wakulla,no
+N08206,N08206.jpg,"Cannon, Marvin",Black,Male,38,4,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,12/24/10,11/15/12,Gadsden,yes
+P01395,P01395.jpg,"Brookins, Elijah J",Black,Male,38,20,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,9/20/11,1/23/14,Gadsden,yes
+P31867,P31867.jpg,"Hernandez, Michael A Jr",White,Male,37,10,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/18/04,3/22/07,Santa rosa,yes
+P36814,P36814.jpg,"Hodges, Willie J",Black,Male,57,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,12/19/01,2/12/09,Escambia,yes
+Q09582,Q09582.jpg,"Jackson, Kenneth R",White,Male,35,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,9/13/07,6/5/13,Hillsborough,yes
+Q13157,Q13157.jpg,"Everett, Paul G",White,Male,38,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/2/01,1/9/03,Bay,yes
+Q23494,Q23494.jpg,"Caylor, Matthew L",White,Male,42,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/8/08,12/11/09,Bay,yes
+Q26629,Q26629.jpg,"Calhoun, Johnny M",White,Male,40,4,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,12/16/10,5/18/12,Holmes,yes
+R05023,R05023.jpg,"Dessaure, Kenneth L Jr",Black,Male,39,15,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/9/99,10/26/01,Pinellas,no
+R17262,R17262.jpg,"Robards, Richard T",White,Male,50,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/31/06,10/29/10,Pinellas,yes
+R17884,R17884.jpg,"Mullens, Khadafy",Black,Male,34,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,8/17/08,8/23/13,Pinellas,yes
+R30302,R30302.jpg,"Floyd, Franklin D",White,Male,74,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/13/89,11/22/02,Pinellas,yes
+T28329,T28329.jpg,"Hernandez-Alberto, Pedro",White,Male,54,14,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/3/99,5/28/02,Hillsborough,yes
+T58435,T58435.jpg,"Pasha, Khalid A",Black,Male,74,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,8/23/02,8/1/13,Hillsborough,yes
+U13479,U13479.jpg,"Williams, Donald O",White,Male,57,3,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,10/18/10,2/28/14,Lake,yes
+U21898,U21898.jpg,"Sexton, John  Jr",White,Male,54,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,4/17/11,12/13/13,Marion,yes
+U24131,U24131.jpg,"Carr, Emilia L",Hispanic,Female,33,6,Lowell Annex,Death Sentence,1st dg mur/premed. or att.,2/15/09,2/22/11,Marion,yes
+U33164,U33164.jpg,"Mcgirth, Renaldo D",Black,Male,29,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/21/06,5/5/08,Marion,yes
+U41472,U41472.jpg,"Bargo, Michael S Jr",White,Male,25,3,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/22/10,12/13/13,Pasco,yes
+U44139,U44139.jpg,"Marquardt, Bill P",White,Male,42,5,Out Of Dept. Custody By Court Order,Death Sentence,1st dg mur/premed. or att.,3/15/00,2/28/12,Sumter,yes
+V01514,V01514.jpg,"Floyd, Maurice L",Black,Male,40,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,7/13/98,5/26/99,Putnam,no
+V02093,V02093.jpg,"Brown, Paul A",White,Male,50,17,Union C.I.,Death Sentence,"1st deg mur,com.of felony",11/4/92,11/7/96,Volusia,no
+V14470,V14470.jpg,"Fletcher, Timothy W",White,Male,33,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,4/15/09,10/12/12,Putnam,yes
+V19522,V19522.jpg,"Gregory, William A",White,Male,35,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/21/07,4/14/11,Volusia,yes
+V25581,V25581.jpg,"Baker, Cornelius O",Black,Male,31,8,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/7/07,3/4/09,Flagler,yes
+V26165,V26165.jpg,"Hunter, Jerone",Black,Male,31,10,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,8/5/04,9/21/06,Volusia,yes
+V29754,V29754.jpg,"Turner, James D",White,Male,46,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/30/05,4/24/08,St. johns,yes
+V29877,V29877.jpg,"Matthews, Douglas B",Black,Male,36,6,Union C.I.,Death Sentence,1st dg mur/premed. or att.,2/20/08,8/12/10,Volusia,yes
+W08567,W08567.jpg,"Francis, Carlton A",Black,Male,42,18,Union C.I.,Death Sentence,"1st deg mur,com.of felony",7/24/97,11/10/98,Palm beach,no
+X06883,X06883.jpg,"Smith, Sean",Black,Male,41,20,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/29/96,12/18/98,Orange,no
+X18736,X18736.jpg,"Jeffries, Sonny R",White,Male,54,18,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/20/93,1/22/99,Orange,no
+X23653,X23653.jpg,"Heyne, Justin C",White,Male,36,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,3/30/06,12/17/09,Brevard,yes
+X33939,X33939.jpg,"Frances, David",Black,Male,37,11,Union C.I.,Death Sentence,1st dg mur/premed. or att.,11/6/00,4/29/05,Orange,yes
+X40969,X40969.jpg,"Guzman, Victor",White,Male,45,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,12/9/00,4/25/13,Miami-dade,yes
+X45131,X45131.jpg,"Hall, Donte J",Black,Male,33,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/9/06,12/9/09,Lake,yes
+X46345,X46345.jpg,"Okafor, Bessman O",Black,Male,28,3,Florida State Prison,Death Sentence,1st dg mur/premed. or att.,6/16/11,10/17/13,Walton,yes
+X50469,X50469.jpg,"Ellerbee, Terry M Jr.",White,Male,33,7,Union C.I.,Death Sentence,1st dg mur/premed. or att.,9/20/06,1/29/10,Okeechobee,yes
+Y01561,Y01561.jpg,"Foster, Kevin D",White,Male,40,18,Union C.I.,Death Sentence,"1st deg mur,com.of felony",4/30/96,6/17/98,Lee,no
+Y02046,Y02046.jpg,"Conahan, Daniel O Jr.",White,Male,63,17,Union C.I.,Death Sentence,1st dg mur/premed. or att.,1/27/97,12/10/99,Charlotte,no
+Y06133,Y06133.jpg,"Diaz, Joel",Hispanic,Male,44,16,Union C.I.,Death Sentence,1st dg mur/premed. or att.,10/28/97,1/29/01,Lee,no
+Y32888,Y32888.jpg,"Twilegar, Mark A",White,Male,53,9,Union C.I.,Death Sentence,1st dg mur/premed. or att.,8/7/02,8/14/07,Lee,yes
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no
+,,,,,,,,,,,,,no

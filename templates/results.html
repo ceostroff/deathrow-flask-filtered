@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Search results</title>
+  <link rel="stylesheet" href="{{url_for('static', filename='color.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
+</head>
+<body>
+
+  <div>Search again:   {% include 'search.html' %}</div>
+
+
+  <p>Your search for <strong>"{{ name }}"</strong>
+  found <strong>{{ deathrow | length }} </strong>
+  matches.</p>
+
+  <p>Results sorted by <strong>{{sortby}}</strong></p>
+
+ 
+        {% for p in deathrow %}
+        <div class="inmateList">
+        <div><a href="{{ url_for('inmate', id=p.id) }}"><img src="{{ url_for('static', filename='mugshots/' + p.photo) }}" width="150" height="200"></a></div>
+   
+</div>
+          
+          
+          
+      {% endfor %}
+  
+
+</body>
+</html>

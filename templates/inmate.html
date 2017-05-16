@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Search results</title>
+  <link rel="stylesheet" href="{{url_for('static', filename='color.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='bootstrap.min.css')}}">
+</head>
+    <body>
+    <div id="container">
+
+
+
+<p>Name: {{ name }}</p>
+
+<p>Crime Committed: {{ crime }}</p>
+    
+<p>Race: {{ race }}</p>
+
+<p>Sex: {{ sex }}</p>
+
+<p>Age: {{ age }}</p>
+    
+<p>Time Spent on Death Row: {{ years_there }}</p>
+    
+<p>Facility Held At: {{ location_held }}</p>
+    
+<p>Sentence: {{ sentence }}</p>
+
+<p>County Crime Committed In: {{ county }}</p>
+
+<p>Date of Offense: {{ offense_date }}</p>
+  
+<p>Date Sentenced: {{ sentence_date }}</p>
+
+
+<p><a href="{{ url_for('results') }}">Return to list</a></p>
+
+
+</div> <!-- close container -->
+ 
+</body>
+</html>
