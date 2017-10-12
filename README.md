@@ -1,4 +1,4 @@
-<i>This repo is an update to original <a href="https://github.com/ceostroff/florida-death-row">respository</a> that gets inmate information from a python dictionary </i>
+<i>This repo is an update to original <a href="https://github.com/ceostroff/florida-death-row">respository</a> that gets inmate information from a python dictionary. It also incorporates data from the original scraper I built, which can be seen <a href="https://github.com/ceostroff/inmates">here</a>. </i>
 <h2> What is this thing?</h2>
 
 Over the course of Advanced Web Apps, a UF course that taught back-end coding , I became something of the Department of Corrections beat reporter. 
